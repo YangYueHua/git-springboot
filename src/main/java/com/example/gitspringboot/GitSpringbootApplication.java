@@ -13,6 +13,7 @@ public class GitSpringbootApplication {
         System.out.println("333333333333");
         System.out.println("hot-fix");
         System.out.println("master commit6");
+        System.out.println("hot-fix commit2");
     }
 
 }
